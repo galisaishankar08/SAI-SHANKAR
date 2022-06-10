@@ -12,27 +12,15 @@ const Footer = () => {
       <div className="f-content">
         <span>galisaishankar08@gmail.com</span>
         <div className="f-icons">
-          <a
-            href="https://www.linkedin.com/in/galisaishankar/"
-            rel="nofollow"
-            target="_blank"
-          >
+          <a href="https://www.linkedin.com/in/galisaishankar/" >
             {" "}
             <Insta color="white" size={"3rem"} />{" "}
           </a>
-          <a
-            href="https://www.linkedin.com/in/galisaishankar/"
-            rel="nofollow"
-            target="_blank"
-          >
+          <a href="https://www.linkedin.com/in/galisaishankar/" >
             {" "}
             <LinkedIn color="white" size={"3rem"} />{" "}
           </a>
-          <a
-            href="https://github.com/galisaishankar08"
-            rel="nofollow"
-            target="_blank"
-          >
+          <a href="https://github.com/galisaishankar08" >
             {" "}
             <Gitub color="white" size={"3rem"} />{" "}
           </a>
