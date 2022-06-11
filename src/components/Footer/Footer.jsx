@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="f-content">
         <span>galisaishankar08@gmail.com</span>
         <div className="f-icons">
-          <a href="https://www.linkedin.com/in/galisaishankar/" >
+          <a href="https://www.instagram.com/sai_shankar08/" >
             {" "}
             <Insta color="white" size={"3rem"} />{" "}
           </a>
