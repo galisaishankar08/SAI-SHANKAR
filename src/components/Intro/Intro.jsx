@@ -46,7 +46,7 @@ const Intro = () => {
             {" "}
             <img src={LinkedIn} alt="LinkedIn" />{" "}
           </a>
-          <a href="https://www.linkedin.com/in/galisaishankar/" >
+          <a href="https://www.instagram.com/sai_shankar08/" >
             {" "}
             <img src={Instagram} alt="" />{" "}
           </a>
