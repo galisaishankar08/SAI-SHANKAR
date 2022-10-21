@@ -28,7 +28,7 @@ const Services = () => {
         <span>services</span>
         <span>
           My services are Web development, Application Development
-          <br />
+          <br /> <br/>
           and UI/UX.
         </span>
         <a href="https://drive.google.com/file/d/1FPZdDg9ea1ayPNc0bFjo5tSOX9hSgDBk/view?usp=sharing">
