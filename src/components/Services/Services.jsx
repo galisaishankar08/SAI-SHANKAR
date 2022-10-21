@@ -27,9 +27,9 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
         <span>services</span>
         <span>
-//           Lorem ispum is simpley dummy text of printing of printing Lorem
-//           <br />
-//           ispum is simpley dummy text of printing
+          My services are Web development, Application Development
+          <br />
+          and UI/UX.
         </span>
         <a href="https://drive.google.com/file/d/1FPZdDg9ea1ayPNc0bFjo5tSOX9hSgDBk/view?usp=sharing">
           <button className="button s-button">Download CV</button>
