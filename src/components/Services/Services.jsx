@@ -31,7 +31,7 @@ const Services = () => {
           <br /> <br/>
           and UI/UX.
         </span>
-        <a href="https://drive.google.com/file/d/1FPZdDg9ea1ayPNc0bFjo5tSOX9hSgDBk/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1R8G5_9FxgT46JfHkLF64CJd-a_YJm9n4/view?usp=sharing">
           <button className="button s-button">Download CV</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
